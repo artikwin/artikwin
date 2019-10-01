@@ -1,3 +1,4 @@
+/*html/*
 <html>
 <head>
 <title>практическая работа 1</title>
